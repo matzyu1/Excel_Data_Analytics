@@ -1,6 +1,6 @@
 # London Housing Market Analysis
 
-![Dashboard Overview](London_Housing_Project/0_Resources/dashboard.gif)
+![Dashboard Overview](0_Resources/dashboard.gif)
 
 ## Introduction
 
@@ -9,7 +9,7 @@ This project analyzes London housing data to uncover trends in property prices, 
 Using Excel’s data preparation, modelling, and visualization tools, I converted raw housing data into a structured model and built analytical visuals to highlight relationships between income, affordability, safety, and demand.
 
 ### Project File
-[Check out my work here!](London_Housing_Project/Project%20London%20Housing.xlsx)
+[Check out my work here!](Project%20London%20Housing.xlsx)
 
 ### Excel Skills Used
 
@@ -49,14 +49,14 @@ The dataset includes London housing market indicators such as:
 
 📊 Transformation Preview
 
-![Power Query Transform](London_Housing_Project/0_Resources/pq_transform.png)
+![Power Query Transform](0_Resources/pq_transform.png)
 
 ### 🔗 Load
 
 - Loaded cleaned data into structured Excel tables.
 - Prepared the dataset for modelling and analysis.
 
-![Power Query Load](London_Housing_Project/0_Resources/pq_load.png)
+![Power Query Load](0_Resources/pq_load.png)
 
 ---
 
@@ -68,13 +68,13 @@ The dataset includes London housing market indicators such as:
 - Created relationships between tables using unique identifiers.
 - Enabled PivotTables and measures for deeper insights.
 
-![Data Model Relationship](London_Housing_Project/0_Resources/data_model.png)
+![Data Model Relationship](0_Resources/data_model.png)
 
 ---
 
 ## 1️⃣ Price vs Salary Trend
 
-<img src="London_Housing_Project/0_Resources/price_salary_chart.png" width="1000" height="1200" alt="Price Salary Trend Chart">
+<img src="0_Resources/price_salary_chart.png" width="1000" height="1200" alt="Price Salary Trend Chart">
 
 - 📈 Property prices have increased significantly over time.
 - 💼 Salary growth has not kept pace with rising housing costs.
@@ -88,7 +88,7 @@ This trend reveals increasing financial pressure on homebuyers and highlights gr
 
 ## 2️⃣ Housing Affordability Ratio
 
-<img src="London_Housing_Project/0_Resources/affordability_chart.png" width="600" height="800" alt="Affordability Ratio Chart">
+<img src="0_Resources/affordability_chart.png" width="600" height="800" alt="Affordability Ratio Chart">
 
 - 💰 Affordability ratios show housing costs consuming a larger portion of income.
 - 📊 Some boroughs are significantly less affordable than others.
@@ -102,7 +102,7 @@ Affordability challenges can impact homeownership rates and influence migration 
 
 ## 3️⃣ Crime vs Property Prices
 
-<img src="London_Housing_Project/0_Resources/crime_relation_chart.png" width="1000" height="1200" alt="Crime Price Relation Chart">
+<img src="0_Resources/crime_relation_chart.png" width="1000" height="1200" alt="Crime Price Relation Chart">
 
 - 🚔 Areas with lower crime rates tend to have higher property prices.
 - 📉 Higher crime levels can negatively influence housing value.
@@ -116,7 +116,7 @@ Understanding the relationship between safety and property values helps buyers, 
 
 ## 4️⃣ Housing Demand Trends
 
-<img src="London_Housing_Project/0_Resources/demand_chart.png" width="600" height="800" alt="Housing Demand Chart">
+<img src="0_Resources/demand_chart.png" width="600" height="800" alt="Housing Demand Chart">
 
 - 📈 Housing demand continues to grow across London.
 - 🏠 Demand pressures contribute to rising property prices.
