@@ -1,6 +1,6 @@
 # Excel Superstore Sales Dashboard
 
-![Superstore Dashboard](Superstore_Project/0_Resources/dashboard.gif)
+![Superstore Dashboard](0_Resources/dashboard.gif)
 
 ## Introduction
 
@@ -38,7 +38,7 @@ The dataset used for this project contains retail sales data including:
 
 #### 📊 Monthly Sales & Profit Trend
 
-<img src="Superstore_Project/0_Resources/msp.png" width="600" height="800" alt="Sales Trend Chart">
+<img src="0_Resources/msp.png" width="600" height="800" alt="Sales Trend Chart">
 
 - 🛠️ **Excel Features:** Line chart displaying monthly sales and profit trends.
 - 🎨 **Design Choice:** Dual trend lines allow comparison between revenue and profitability.
@@ -49,7 +49,7 @@ The dataset used for this project contains retail sales data including:
 
 #### 🏆 Profit by Sub-Category
 
-<img src="Superstore_Project/0_Resources/pbs.png" width="600" height="800" alt="Subcategory Profit Chart">
+<img src="0_Resources/pbs.png" width="600" height="800" alt="Subcategory Profit Chart">
 
 - 🛠️ **Excel Features:** Bar chart ranking sub-categories by profit.
 - 🎨 **Design Choice:** Sorted bars improve readability and highlight extremes.
@@ -60,7 +60,7 @@ The dataset used for this project contains retail sales data including:
 
 #### 💸 Discount Impact on Profitability
 
-<img src="Superstore_Project/0_Resources/dscsc.png" width="600" height="800" alt="Discount Impact Chart">
+<img src="0_Resources/dscsc.png" width="600" height="800" alt="Discount Impact Chart">
 
 - 🛠️ **Excel Features:** Pivot-based summary used to evaluate discount effects.
 - 📊 **Data Representation:** Comparison of profit against discount levels.
@@ -86,11 +86,11 @@ Category,Superstore[Order_year],Year
 
 🍽️ Background Table
 
-![Background Table Screenshot](Superstore_Project/0_Resources/bgt1.png)
+![Background Table Screenshot](0_Resources/bgt1.png)
 
 📉 Dashboard Implementation
 
-<img src="Superstore_Project/0_Resources/bgt1 in.png" width="400" height="500" alt="Dashboard Filters">
+<img src="0_Resources/bgt1 in.png" width="400" height="500" alt="Dashboard Filters">
 
 ---
 
@@ -105,11 +105,11 @@ Category,Superstore[Order_year],Year
 
 🍽️ Background Table
 
-![Date Table Screenshot](Superstore_Project/0_Resources/bgt2.png)
+![Date Table Screenshot](0_Resources/bgt2.png)
 
 📉 Dashboard Implementation
 
-<img src="Superstore_Project/0_Resources/bgt2 in.png" width="350" height="500" alt="Monthly Trend Dashboard">
+<img src="0_Resources/bgt2 in.png" width="350" height="500" alt="Monthly Trend Dashboard">
 
 ---
 
@@ -134,11 +134,11 @@ Superstore[Order_year],Year
 
 🍽️ Background Table
 
-![Discount Background Table Screenshot](Superstore_Project/0_Resources/bgt3.png)
+![Discount Background Table Screenshot](0_Resources/bgt3.png)
 
 📉 Dashboard Implementation
 
-<img src="Superstore_Project/0_Resources/bgt3 in.png" width="400" height="500" alt="Discount Profit Correlation Chart">
+<img src="0_Resources/bgt3 in.png" width="400" height="500" alt="Discount Profit Correlation Chart">
 
 ---
 
@@ -151,7 +151,7 @@ Superstore[Order_year],Year
   - 🚫 Prevention of incorrect entries  
   - 👥 Improved dashboard usability  
 
-<img src="Superstore_Project/0_Resources/data validation demo.gif" width="425" height="400" alt="Data Validation Demo">
+<img src="0_Resources/data validation demo.gif" width="425" height="400" alt="Data Validation Demo">
 
 ---
 
